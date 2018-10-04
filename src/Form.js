@@ -4,7 +4,7 @@ import Typography from '@material-ui/core/Typography';
 import CloseIcon from '@material-ui/icons/Close';
 import axios from 'axios';
 
-const BASE_URL = 'http://olsiqose.com/symfony-fizzbuzz/web';
+const BASE_URL = 'https://olsiqose.com/symfony-fizzbuzz/web';
 
 class Form extends Component {
 
